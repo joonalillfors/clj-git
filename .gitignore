@@ -10,3 +10,4 @@ pom.xml.asc
 /.nrepl-port
 *.swp
 .DS_Store
+.lein-env
