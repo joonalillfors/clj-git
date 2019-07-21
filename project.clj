@@ -8,7 +8,6 @@
                  [compojure "1.6.1"]
                  [environ "1.1.0"]
                  [ring/ring-defaults "0.3.2"]
-                 [http-kit "2.3.0"]
                  [clj-http "3.10.0"]
                  [ring/ring-json "0.3.1"]]
   :plugins [[lein-ring "0.12.5"]
